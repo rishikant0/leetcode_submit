@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/rishikant0/leetcode_submit/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
