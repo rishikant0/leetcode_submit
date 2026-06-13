@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/rishikant0/leetcode_submit/tree/master/1045-customers-who-bought-all-products) |
 | [1934-confirmation-rate](https://github.com/rishikant0/leetcode_submit/tree/master/1934-confirmation-rate) |
 ## Linked List
 |  |
