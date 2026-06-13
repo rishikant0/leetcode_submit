@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/rishikant0/leetcode_submit/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/rishikant0/leetcode_submit/tree/master/0185-department-top-three-salaries) |
 | [1045-customers-who-bought-all-products](https://github.com/rishikant0/leetcode_submit/tree/master/1045-customers-who-bought-all-products) |
 | [1934-confirmation-rate](https://github.com/rishikant0/leetcode_submit/tree/master/1934-confirmation-rate) |
 ## Linked List
