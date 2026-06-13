@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishikant0/leetcode_submit/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
