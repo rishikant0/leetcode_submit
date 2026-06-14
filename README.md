@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rishikant0/leetcode_submit/tree/master/0018-4sum) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
