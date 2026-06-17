@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishikant0/leetcode_submit/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishikant0/leetcode_submit/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
