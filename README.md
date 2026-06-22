@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishikant0/leetcode_submit/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishikant0/leetcode_submit/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Recursion
