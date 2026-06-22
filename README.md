@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/rishikant0/leetcode_submit/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rishikant0/leetcode_submit/tree/master/0185-department-top-three-salaries) |
+| [0585-investments-in-2016](https://github.com/rishikant0/leetcode_submit/tree/master/0585-investments-in-2016) |
 | [1045-customers-who-bought-all-products](https://github.com/rishikant0/leetcode_submit/tree/master/1045-customers-who-bought-all-products) |
 | [1164-product-price-at-a-given-date](https://github.com/rishikant0/leetcode_submit/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rishikant0/leetcode_submit/tree/master/1204-last-person-to-fit-in-the-bus) |
