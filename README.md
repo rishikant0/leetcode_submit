@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishikant0/leetcode_submit/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishikant0/leetcode_submit/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
