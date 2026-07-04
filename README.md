@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishikant0/leetcode_submit/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishikant0/leetcode_submit/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishikant0/leetcode_submit/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rishikant0/leetcode_submit/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rishikant0/leetcode_submit/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
