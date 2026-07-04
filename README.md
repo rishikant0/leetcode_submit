@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishikant0/leetcode_submit/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/rishikant0/leetcode_submit/tree/master/1768-merge-strings-alternately) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishikant0/leetcode_submit/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishikant0/leetcode_submit/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/rishikant0/leetcode_submit/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [3620-network-recovery-pathways](https://github.com/rishikant0/leetcode_submit/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishikant0/leetcode_submit/tree/master/3699-number-of-zigzag-arrays-i) |
