@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -316,10 +317,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
