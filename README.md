@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
+| [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rishikant0/leetcode_submit/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishikant0/leetcode_submit/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
+| [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishikant0/leetcode_submit/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3620-network-recovery-pathways](https://github.com/rishikant0/leetcode_submit/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishikant0/leetcode_submit/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
