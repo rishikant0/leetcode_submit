@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 ## Binary Indexed Tree
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
 ## Topological Sort
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
