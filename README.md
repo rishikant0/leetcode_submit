@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
+| [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rishikant0/leetcode_submit/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishikant0/leetcode_submit/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
+| [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishikant0/leetcode_submit/tree/master/1833-maximum-ice-cream-bars) |
