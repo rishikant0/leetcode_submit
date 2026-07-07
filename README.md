@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rishikant0/leetcode_submit/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/rishikant0/leetcode_submit/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/rishikant0/leetcode_submit/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
