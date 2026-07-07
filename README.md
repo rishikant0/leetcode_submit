@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rishikant0/leetcode_submit/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rishikant0/leetcode_submit/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rishikant0/leetcode_submit/tree/master/0394-decode-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rishikant0/leetcode_submit/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/rishikant0/leetcode_submit/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
