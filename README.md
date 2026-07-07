@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rishikant0/leetcode_submit/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rishikant0/leetcode_submit/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rishikant0/leetcode_submit/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rishikant0/leetcode_submit/tree/master/0724-find-pivot-index) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishikant0/leetcode_submit/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/rishikant0/leetcode_submit/tree/master/1732-find-the-highest-altitude) |
