@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rishikant0/leetcode_submit/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rishikant0/leetcode_submit/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishikant0/leetcode_submit/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishikant0/leetcode_submit/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/rishikant0/leetcode_submit/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0700-search-in-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
