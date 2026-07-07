@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/rishikant0/leetcode_submit/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rishikant0/leetcode_submit/tree/master/0338-counting-bits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/rishikant0/leetcode_submit/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishikant0/leetcode_submit/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
