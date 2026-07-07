@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rishikant0/leetcode_submit/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rishikant0/leetcode_submit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rishikant0/leetcode_submit/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
