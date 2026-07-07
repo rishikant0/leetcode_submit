@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rishikant0/leetcode_submit/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rishikant0/leetcode_submit/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rishikant0/leetcode_submit/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rishikant0/leetcode_submit/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rishikant0/leetcode_submit/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rishikant0/leetcode_submit/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/rishikant0/leetcode_submit/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
