@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rishikant0/leetcode_submit/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/rishikant0/leetcode_submit/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishikant0/leetcode_submit/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/rishikant0/leetcode_submit/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rishikant0/leetcode_submit/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rishikant0/leetcode_submit/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rishikant0/leetcode_submit/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rishikant0/leetcode_submit/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rishikant0/leetcode_submit/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rishikant0/leetcode_submit/tree/master/3620-network-recovery-pathways) |
 ## Data Stream
@@ -371,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rishikant0/leetcode_submit/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/rishikant0/leetcode_submit/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rishikant0/leetcode_submit/tree/master/0841-keys-and-rooms) |
