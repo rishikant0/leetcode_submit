@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rishikant0/leetcode_submit/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0213-house-robber-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
