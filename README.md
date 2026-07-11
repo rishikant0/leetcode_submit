@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rishikant0/leetcode_submit/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rishikant0/leetcode_submit/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rishikant0/leetcode_submit/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
