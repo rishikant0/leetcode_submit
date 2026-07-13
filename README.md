@@ -505,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rishikant0/leetcode_submit/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
