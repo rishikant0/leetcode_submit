@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/rishikant0/leetcode_submit/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/rishikant0/leetcode_submit/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rishikant0/leetcode_submit/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rishikant0/leetcode_submit/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
