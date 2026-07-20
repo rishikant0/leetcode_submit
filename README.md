@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/rishikant0/leetcode_submit/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
