@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rishikant0/leetcode_submit/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rishikant0/leetcode_submit/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rishikant0/leetcode_submit/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0435-non-overlapping-intervals) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rishikant0/leetcode_submit/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rishikant0/leetcode_submit/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rishikant0/leetcode_submit/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishikant0/leetcode_submit/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
