@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2295-replace-elements-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rishikant0/leetcode_submit/tree/master/2336-smallest-number-in-infinite-set) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishikant0/leetcode_submit/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2295-replace-elements-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/2295-replace-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishikant0/leetcode_submit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
+| [2295-replace-elements-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rishikant0/leetcode_submit/tree/master/3838-weighted-word-mapping) |
