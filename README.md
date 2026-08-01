@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rishikant0/leetcode_submit/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/rishikant0/leetcode_submit/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rishikant0/leetcode_submit/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0070-climbing-stairs) |
