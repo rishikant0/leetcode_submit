@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rishikant0/leetcode_submit/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rishikant0/leetcode_submit/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rishikant0/leetcode_submit/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishikant0/leetcode_submit/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishikant0/leetcode_submit/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
