@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishikant0/leetcode_submit/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishikant0/leetcode_submit/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishikant0/leetcode_submit/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/rishikant0/leetcode_submit/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishikant0/leetcode_submit/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -627,9 +632,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
