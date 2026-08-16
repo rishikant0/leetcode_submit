@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/rishikant0/leetcode_submit/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishikant0/leetcode_submit/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishikant0/leetcode_submit/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishikant0/leetcode_submit/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishikant0/leetcode_submit/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rishikant0/leetcode_submit/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/rishikant0/leetcode_submit/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikant0/leetcode_submit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishikant0/leetcode_submit/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 | [2544-alternating-digit-sum](https://github.com/rishikant0/leetcode_submit/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikant0/leetcode_submit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishikant0/leetcode_submit/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishikant0/leetcode_submit/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -653,16 +658,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
