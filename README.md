@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishikant0/leetcode_submit/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1362-closest-divisors](https://github.com/rishikant0/leetcode_submit/tree/master/1362-closest-divisors) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rishikant0/leetcode_submit/tree/master/1563-stone-game-v) |
@@ -733,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishikant0/leetcode_submit/tree/master/1510-stone-game-iv) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/rishikant0/leetcode_submit/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
