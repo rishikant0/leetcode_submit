@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/2295-replace-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishikant0/leetcode_submit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishikant0/leetcode_submit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishikant0/leetcode_submit/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikant0/leetcode_submit/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rishikant0/leetcode_submit/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishikant0/leetcode_submit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishikant0/leetcode_submit/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/rishikant0/leetcode_submit/tree/master/2029-stone-game-ix) |
 | [2544-alternating-digit-sum](https://github.com/rishikant0/leetcode_submit/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishikant0/leetcode_submit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikant0/leetcode_submit/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishikant0/leetcode_submit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rishikant0/leetcode_submit/tree/master/1291-sequential-digits) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishikant0/leetcode_submit/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishikant0/leetcode_submit/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishikant0/leetcode_submit/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -753,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/rishikant0/leetcode_submit/tree/master/1362-closest-divisors) |
+## Geometry
+|  |
+| ------- |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
