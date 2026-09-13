@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishikant0/leetcode_submit/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/rishikant0/leetcode_submit/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rishikant0/leetcode_submit/tree/master/1277-count-square-submatrices-with-all-ones) |
