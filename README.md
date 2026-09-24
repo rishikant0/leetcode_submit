@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rishikant0/leetcode_submit/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rishikant0/leetcode_submit/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishikant0/leetcode_submit/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishikant0/leetcode_submit/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rishikant0/leetcode_submit/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0213-house-robber-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rishikant0/leetcode_submit/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishikant0/leetcode_submit/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/rishikant0/leetcode_submit/tree/master/1833-maximum-ice-cream-bars) |
@@ -794,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishikant0/leetcode_submit/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
