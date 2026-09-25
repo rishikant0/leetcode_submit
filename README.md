@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishikant0/leetcode_submit/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishikant0/leetcode_submit/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishikant0/leetcode_submit/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rishikant0/leetcode_submit/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rishikant0/leetcode_submit/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/rishikant0/leetcode_submit/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rishikant0/leetcode_submit/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rishikant0/leetcode_submit/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rishikant0/leetcode_submit/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishikant0/leetcode_submit/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rishikant0/leetcode_submit/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/rishikant0/leetcode_submit/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/rishikant0/leetcode_submit/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
