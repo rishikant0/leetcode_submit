@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/rishikant0/leetcode_submit/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/rishikant0/leetcode_submit/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/rishikant0/leetcode_submit/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0435-non-overlapping-intervals) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/rishikant0/leetcode_submit/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0836-rectangle-overlap) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/rishikant0/leetcode_submit/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rishikant0/leetcode_submit/tree/master/2336-smallest-number-in-infinite-set) |
@@ -833,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishikant0/leetcode_submit/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishikant0/leetcode_submit/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
