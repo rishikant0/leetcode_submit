@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rishikant0/leetcode_submit/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishikant0/leetcode_submit/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/rishikant0/leetcode_submit/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rishikant0/leetcode_submit/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishikant0/leetcode_submit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rishikant0/leetcode_submit/tree/master/1386-cinema-seat-allocation) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rishikant0/leetcode_submit/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rishikant0/leetcode_submit/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rishikant0/leetcode_submit/tree/master/0877-stone-game) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/rishikant0/leetcode_submit/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishikant0/leetcode_submit/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rishikant0/leetcode_submit/tree/master/0901-online-stock-span) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishikant0/leetcode_submit/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishikant0/leetcode_submit/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
