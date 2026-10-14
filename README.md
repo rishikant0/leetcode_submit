@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rishikant0/leetcode_submit/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/rishikant0/leetcode_submit/tree/master/0068-text-justification) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rishikant0/leetcode_submit/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikant0/leetcode_submit/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/rishikant0/leetcode_submit/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/rishikant0/leetcode_submit/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/rishikant0/leetcode_submit/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
