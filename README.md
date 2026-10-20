@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rishikant0/leetcode_submit/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rishikant0/leetcode_submit/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/rishikant0/leetcode_submit/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/rishikant0/leetcode_submit/tree/master/0368-largest-divisible-subset) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rishikant0/leetcode_submit/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rishikant0/leetcode_submit/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishikant0/leetcode_submit/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikant0/leetcode_submit/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishikant0/leetcode_submit/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishikant0/leetcode_submit/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishikant0/leetcode_submit/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishikant0/leetcode_submit/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishikant0/leetcode_submit/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishikant0/leetcode_submit/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -700,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rishikant0/leetcode_submit/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Heap (Priority Queue)
@@ -717,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishikant0/leetcode_submit/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rishikant0/leetcode_submit/tree/master/2336-smallest-number-in-infinite-set) |
 | [2424-longest-uploaded-prefix](https://github.com/rishikant0/leetcode_submit/tree/master/2424-longest-uploaded-prefix) |
@@ -918,4 +925,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishikant0/leetcode_submit/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/rishikant0/leetcode_submit/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
