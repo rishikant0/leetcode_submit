@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikant0/leetcode_submit/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/rishikant0/leetcode_submit/tree/master/0609-find-duplicate-file-in-system) |
+| [0745-prefix-and-suffix-search](https://github.com/rishikant0/leetcode_submit/tree/master/0745-prefix-and-suffix-search) |
 | [1096-brace-expansion-ii](https://github.com/rishikant0/leetcode_submit/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishikant0/leetcode_submit/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/rishikant0/leetcode_submit/tree/master/0609-find-duplicate-file-in-system) |
 | [0649-dota2-senate](https://github.com/rishikant0/leetcode_submit/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/rishikant0/leetcode_submit/tree/master/0678-valid-parenthesis-string) |
+| [0745-prefix-and-suffix-search](https://github.com/rishikant0/leetcode_submit/tree/master/0745-prefix-and-suffix-search) |
 | [0856-score-of-parentheses](https://github.com/rishikant0/leetcode_submit/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishikant0/leetcode_submit/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikant0/leetcode_submit/tree/master/0940-distinct-subsequences-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rishikant0/leetcode_submit/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rishikant0/leetcode_submit/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishikant0/leetcode_submit/tree/master/0739-daily-temperatures) |
+| [0745-prefix-and-suffix-search](https://github.com/rishikant0/leetcode_submit/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/rishikant0/leetcode_submit/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
+| [0745-prefix-and-suffix-search](https://github.com/rishikant0/leetcode_submit/tree/master/0745-prefix-and-suffix-search) |
 | [0901-online-stock-span](https://github.com/rishikant0/leetcode_submit/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rishikant0/leetcode_submit/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rishikant0/leetcode_submit/tree/master/2336-smallest-number-in-infinite-set) |
@@ -846,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rishikant0/leetcode_submit/tree/master/0208-implement-trie-prefix-tree) |
+| [0745-prefix-and-suffix-search](https://github.com/rishikant0/leetcode_submit/tree/master/0745-prefix-and-suffix-search) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
 ## Enumeration
 |  |
