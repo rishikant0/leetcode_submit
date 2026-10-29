@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishikant0/leetcode_submit/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishikant0/leetcode_submit/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/rishikant0/leetcode_submit/tree/master/1690-stone-game-vii) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rishikant0/leetcode_submit/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1872-stone-game-viii](https://github.com/rishikant0/leetcode_submit/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishikant0/leetcode_submit/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishikant0/leetcode_submit/tree/master/1979-find-greatest-common-divisor-of-array) |
