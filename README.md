@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rishikant0/leetcode_submit/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishikant0/leetcode_submit/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishikant0/leetcode_submit/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/rishikant0/leetcode_submit/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rishikant0/leetcode_submit/tree/master/0494-target-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rishikant0/leetcode_submit/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/rishikant0/leetcode_submit/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishikant0/leetcode_submit/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishikant0/leetcode_submit/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rishikant0/leetcode_submit/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rishikant0/leetcode_submit/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/rishikant0/leetcode_submit/tree/master/0836-rectangle-overlap) |
