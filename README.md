@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishikant0/leetcode_submit/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rishikant0/leetcode_submit/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rishikant0/leetcode_submit/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/rishikant0/leetcode_submit/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishikant0/leetcode_submit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rishikant0/leetcode_submit/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rishikant0/leetcode_submit/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rishikant0/leetcode_submit/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rishikant0/leetcode_submit/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rishikant0/leetcode_submit/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/rishikant0/leetcode_submit/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishikant0/leetcode_submit/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rishikant0/leetcode_submit/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikant0/leetcode_submit/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/rishikant0/leetcode_submit/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishikant0/leetcode_submit/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishikant0/leetcode_submit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishikant0/leetcode_submit/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishikant0/leetcode_submit/tree/master/1838-frequency-of-the-most-frequent-element) |
