@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishikant0/leetcode_submit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/rishikant0/leetcode_submit/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishikant0/leetcode_submit/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishikant0/leetcode_submit/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishikant0/leetcode_submit/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishikant0/leetcode_submit/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rishikant0/leetcode_submit/tree/master/3312-sorted-gcd-pair-queries) |
