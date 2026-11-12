@@ -1,12 +1,23 @@
 class Solution {
     public long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
-        long c1 = cost1, c2 = cost2, cb = costBoth;
-        long n1 = need1, n2 = need2;
-        long pairs = Math.min(n1, n2);
-        long costPairs = pairs * Math.min(cb, c1 + c2);
-        long rem1 = n1 - pairs;
-        long rem2 = n2 - pairs;
-        long costRem = rem1 * Math.min(c1, cb) + rem2 * Math.min(c2, cb);
-        return costPairs + costRem;
+        long ans = 0;
+        if(costBoth >= cost1 + cost2) {
+            return (((long)cost1*need1) + ((long)cost2*need2));
+        }else{
+            int min = Math.min(need1, need2);
+
+            ans += (min*(long)costBoth);
+
+            need1-=min; need2-=min;
+            if(need1 > 0){
+                if(cost1 > costBoth) ans += ((long)costBoth*need1);
+                else ans += ((long)cost1*need1); 
+            }else if(need2 > 0){
+                if(cost2 > costBoth) ans += ((long)costBoth*need2);
+                else ans += ((long)cost2*need2); 
+            }
+        }
+
+        return ans;
     }
 }
